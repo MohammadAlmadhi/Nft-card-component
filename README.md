@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Nft-card-component][(https://your-solution-url.com)](https://github.com/MohammadAlmadhi/Nft-card-component)
-- Live Site URL: [Nft-card-component]([https://your-live-site-url.com](https://mohammadalmadhi.github.io/Nft-card-component/))
+- Solution URL: [Nft-card-component](https://github.com/MohammadAlmadhi/Nft-card-component)
+- Live Site URL: [Nft-card-component](https://mohammadalmadhi.github.io/Nft-card-component/)
 
 ## My process
 
