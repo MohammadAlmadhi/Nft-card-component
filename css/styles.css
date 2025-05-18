@@ -19,7 +19,7 @@ body {
   background-color: var(--Very-dark-blue-main-BG);
 }
 .card {
-  margin: 100px auto;
+  margin: 150px auto;
   width: 300px;
   background-color: var(--Very-dark-blue-card-BG);
   padding: 20px;
